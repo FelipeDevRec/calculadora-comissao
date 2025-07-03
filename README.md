@@ -49,7 +49,7 @@ Calculadora simples e online para estimar a comissão de vendedores com base no 
 ## 📦 Instalação local
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repo.git
+git clone https://github.com/FelipeDevRec/calculadora-comissao
 cd seu-repo
 npm install
 npm run dev
